@@ -2,7 +2,7 @@
 
 ## A self-motivated front end developer, traveling through knowledge and growth daily.
 
-### Languages and tools I use
+### Languages and tools I use 🛠️
 ![JavaScript](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=javascript&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-CAFB74?style=for-the-badge&logo=css3&logoColor=000000)
 ![HTML](https://img.shields.io/badge/-HTML-CAFB74?style=for-the-badge&logo=html5&logoColor=000000)
@@ -25,7 +25,7 @@
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-CAFB74?style=for-the-badge&logo=woo&logoColor=000000)
 
 
-## Folow me
+### Folow me 🤩
 [![Instagram](https://img.shields.io/badge/-Instagram-CAFB74?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.instagram.com/whiiteechocolatee?igsh=Zmp6MnR3eG13OTl5)
 [![Telegram](https://img.shields.io/badge/-Telegram-CAFB74?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/andreybllck)
 [![Spotify](https://img.shields.io/badge/-Spotify-CAFB74?style=for-the-badge&logo=spotify&logoColor=000000)](https://open.spotify.com/user/3132thhwfcaihyndh463gnsux7re)
@@ -33,5 +33,5 @@
 
 
 
-## Bad luck for you all my repos are private 😓
+### Unfortunately, all my repositories are set to private. 😓
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteechocolatee&show_icons=true&theme=transparent&hide=prs,issues,contribs)
