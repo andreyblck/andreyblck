@@ -3,5 +3,5 @@
 ## A self-motivated front end developer, traveling through knowledge and growth daily.
 
 Languages and tools
-![Static Badge](https://img.shields.io/badge/JavaScript?style=flat&logo=javascript&logoColor=242424&color=CAFB74)
+[![JavaScript](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=javascript&logoColor=000000)]
 
