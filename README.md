@@ -30,3 +30,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-CAFB74?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/andreybllck)
 [![Spotify](https://img.shields.io/badge/-Spotify-CAFB74?style=for-the-badge&logo=spotify&logoColor=000000)](https://open.spotify.com/user/3132thhwfcaihyndh463gnsux7re)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-CAFB74?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/whiiteechocolatee/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteechocolatee&show_icons=true&theme=transparent)
