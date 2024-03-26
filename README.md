@@ -15,6 +15,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-CAFB74?style=for-the-badge&logo=figma&logoColor=000000)
 ![GSAP](https://img.shields.io/badge/-GSAP-CAFB74?style=for-the-badge&logo=actigraph&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-CAFB74?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![shadcn](https://img.shields.io/badge/-shadcn-CAFB74?style=for-the-badge&logo=shadcnui&logoColor=000000)
+![bootstrap](https://img.shields.io/badge/-bootstrap-CAFB74?style=for-the-badge&logo=bootstrap&logoColor=000000)
 ![Prisma](https://img.shields.io/badge/-Prisma-CAFB74?style=for-the-badge&logo=prisma&logoColor=000000)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-CAFB74?style=for-the-badge&logo=wordpress&logoColor=000000)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-CAFB74?style=for-the-badge&logo=woo&logoColor=000000)
