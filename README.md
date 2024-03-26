@@ -17,6 +17,8 @@
 ![typescript](https://img.shields.io/badge/-TypeScript-CAFB74?style=for-the-badge&logo=typescript&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-CAFB74?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 ![shadcn](https://img.shields.io/badge/-shadcn-CAFB74?style=for-the-badge&logo=shadcnui&logoColor=000000)
+![astro](https://img.shields.io/badge/-astro-CAFB74?style=for-the-badge&logo=astro&logoColor=000000)
+![webpack](https://img.shields.io/badge/-webpack-CAFB74?style=for-the-badge&logo=webpack&logoColor=000000)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-CAFB74?style=for-the-badge&logo=bootstrap&logoColor=000000)
 ![Prisma](https://img.shields.io/badge/-Prisma-CAFB74?style=for-the-badge&logo=prisma&logoColor=000000)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-CAFB74?style=for-the-badge&logo=wordpress&logoColor=000000)
