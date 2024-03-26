@@ -14,6 +14,7 @@
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-CAFB74?style=for-the-badge&logo=githubcopilot&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-CAFB74?style=for-the-badge&logo=figma&logoColor=000000)
 ![GSAP](https://img.shields.io/badge/-GSAP-CAFB74?style=for-the-badge&logo=actigraph&logoColor=000000)
+![typescript](https://img.shields.io/badge/-TypeScript-CAFB74?style=for-the-badge&logo=typescript&logoColor=000000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-CAFB74?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 ![shadcn](https://img.shields.io/badge/-shadcn-CAFB74?style=for-the-badge&logo=shadcnui&logoColor=000000)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-CAFB74?style=for-the-badge&logo=bootstrap&logoColor=000000)
