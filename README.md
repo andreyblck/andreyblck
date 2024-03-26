@@ -32,4 +32,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-CAFB74?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/whiiteechocolatee/)
 
 
+
+## Bad luck for you all my repos are private 😓
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whiteechocolatee&show_icons=true&theme=transparent&hide=prs,issues,contribs)
