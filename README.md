@@ -5,7 +5,7 @@
 ### Languages and tools I use
 ![JavaScript](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=javascript&logoColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-CAFB74?style=for-the-badge&logo=css3&logoColor=000000)
-![HTML](https://img.shields.io/badge/-HTML-CAFB74?style=for-the-badge&logo=html&logoColor=000000)
+![HTML](https://img.shields.io/badge/-HTML-CAFB74?style=for-the-badge&logo=html5&logoColor=000000)
 ![NPM](https://img.shields.io/badge/-npm-CAFB74?style=for-the-badge&logo=npm&logoColor=000000)
 ![React](https://img.shields.io/badge/-React-CAFB74?style=for-the-badge&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-CAFB74?style=for-the-badge&logo=react&logoColor=000000)
