@@ -16,3 +16,9 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-CAFB74?style=for-the-badge&logo=wordpress&logoColor=000000)
 ![WooCommerce](https://img.shields.io/badge/-WooCommerce-CAFB74?style=for-the-badge&logo=woo&logoColor=000000)
 
+
+## Folow me
+[![Instagram](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=javascript&logoColor=000000)]()
+[![Telegram](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/andreybllck)
+[![Spotify](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=spotify&logoColor=000000)](https://open.spotify.com/user/3132thhwfcaihyndh463gnsux7re)
+[![LinkedIn](https://img.shields.io/badge/-JS-CAFB74?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/whiiteechocolatee/)
